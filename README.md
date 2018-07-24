@@ -91,3 +91,21 @@ terminal-games/
 ## License
 
 MIT
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+**Terminal Games** est une collection de jeux classiques jouables directement dans le terminal, développée en Node.js. Elle comprend des jeux comme le Snake, le Pendu et le Morpion, avec une interface textuelle interactive. Idéal pour explorer la programmation de jeux en mode console.
+
+### Installation
+```bash
+npm install
+```
+
+### Utilisation
+```bash
+npm start   # Lancer le menu principal
+npm test    # Lancer les tests
+```
